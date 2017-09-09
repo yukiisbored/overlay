@@ -1,0 +1,6 @@
+#+TITLE: Yuki's Overlay
+
+This is my personal Gentoo overlay, mostly filled with ebuilds that are
+abandoned or stuff that I need that isn't updated or available.
+
+Stability isn't promised. Have fun.
